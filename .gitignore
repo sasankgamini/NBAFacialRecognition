@@ -1,0 +1,7 @@
+prediction.py
+buildingModel.py
+images/
+venv/
+.idea/
+__pycache__/
+.vscode/
